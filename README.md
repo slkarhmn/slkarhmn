@@ -1,4 +1,4 @@
-![Salika's GitHub stats](https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api?username=slkarhmn&show_icons=true&theme=gotham) 
+![Salika's GitHub stats](https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api?username=slkarhmn&show_icons=true&include_all_commits=true&count_private=true&theme=gotham)
 
 [![Gist Card](https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api/gist?id=194fd632b99c5ca0fcf9457f2a3065be&theme=gotham)](https://gist.github.com/slkarhmn/194fd632b99c5ca0fcf9457f2a3065be)
 
