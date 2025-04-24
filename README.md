@@ -8,12 +8,18 @@
 [![Gist Card](https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api/gist?id=194fd632b99c5ca0fcf9457f2a3065be&theme=gotham&border_color=3C9089&bg_color=00000000)](https://gist.github.com/slkarhmn/194fd632b99c5ca0fcf9457f2a3065be)
 
 ## Stats
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api?username=slkarhmn&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000&hide_rank=true&count_private=true&include_all_commits=true&hide=stars" style="height: 200px; width: auto; margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slkarhmn&theme=gotham&hide_border=true" alt="slkarhmn" style="height: 200px; width: auto;" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img src="https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api?username=slkarhmn&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000&hide_rank=true&count_private=true&include_all_commits=true&hide=stars&custom_title=Overall" alt="GitHub Stats"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=slkarhmn&theme=gotham&hide_border=true&bg_color=00000000&custom_title=Repository+Contributions" " alt="Repository Contribution Stats"/>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=slkarhmn&bg_color=00000000&color=3C9089&line=3C9089&point=3C9089&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <img src="https://github-readme-streak-stats-git-main-salikas-projects-2abcb053.vercel.app/api?user=slkarhmn&theme=gotham&hide_border=true&bg_color=00000000" alt="GitHub Streak Stats" style="width: 98%; max-width: 800px;" />
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=slkarhmn&bg_color=00000000&color=3C9089&line=3C9089&point=3C9089&area=true&hide_border=true" alt="GitHub Contribution Graph" style="width: 98%; max-width: 1000px;" />
+</div>
 
 ## Tech Stack
 [![Top Langs](https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api/top-langs?username=slkarhmn&langs_count=10&hide=css,html&theme=gotham&hide_border=true&bg_color=00000000)](https://github.com/slkarhmn)
