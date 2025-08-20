@@ -1,28 +1,28 @@
 <div align="left">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2200&pause=200&color=30736D&multiline=true&width=1000&height=250&lines=%24+whoami;slkarhmn;%24+groups;meng-comp-sci+%7C+backend-dev+%7C+cyber-security;%24+echo+%24BASED_IN;UK%3ADubai%3AIndia;%24+cat+greeting.txt;thanks+for+visiting+%3A);++++++++++++++++++++" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2200&pause=200&color=ECB000&multiline=true&width=1000&height=250&lines=%24+whoami;slkarhmn;%24+groups;meng-comp-sci+%7C+backend-dev+%7C+cyber-security;%24+echo+%24BASED_IN;UK%3ADubai%3AIndia;%24+cat+greeting.txt;thanks+for+visiting+%3A);++++++++++++++++++++" />
   </a>
 </div>
 
 ## CV
-[![Gist Card](https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api/gist?id=194fd632b99c5ca0fcf9457f2a3065be&theme=gotham&border_color=3C9089&bg_color=00000000)](https://gist.github.com/slkarhmn/194fd632b99c5ca0fcf9457f2a3065be)
+[![Gist Card](https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api/gist?id=194fd632b99c5ca0fcf9457f2a3065be&title_color=ECB000&text_color=ECB000&icon_colour=ECB000&border_color=ECB000&bg_color=00000000)](https://gist.github.com/slkarhmn/194fd632b99c5ca0fcf9457f2a3065be)
 
 ## Stats
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api?username=slkarhmn&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000&hide_rank=true&count_private=true&include_all_commits=true&hide=stars&custom_title=Overall" alt="GitHub Stats"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=slkarhmn&theme=gotham&hide_border=true&bg_color=00000000&custom_title=Repository+Contributions" " alt="Repository Contribution Stats"/>
+  <img src="https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api?username=slkarhmn&show_icons=true&title_color=ECB000&text_color=ECB000&icon_colour=ECB000&hide_border=true&bg_color=00000000&hide_rank=true&count_private=true&include_all_commits=true&hide=stars&custom_title=Overall" alt="GitHub Stats"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=slkarhmn&title_color=ECB000&text_color=ECB000&icon_colour=ECB000&hide_border=true&bg_color=00000000&custom_title=Repository+Contributions" " alt="Repository Contribution Stats"/>
 </div>
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="https://github-readme-streak-stats-git-main-salikas-projects-2abcb053.vercel.app/api?user=slkarhmn&theme=gotham&hide_border=true&bg_color=00000000" alt="GitHub Streak Stats" style="width: 98%; max-width: 800px;" />
+  <img src="https://github-readme-streak-stats-git-main-salikas-projects-2abcb053.vercel.app/api?user=slkarhmn&theme=highcontrast&stroke=ECB000&ring=ECB000&&currStreakLabel=ECB000&fire=ECB000&hide_border=true&background=00000000" alt="GitHub Streak Stats" style="width: 98%; max-width: 800px;" />
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=slkarhmn&bg_color=00000000&color=3C9089&line=3C9089&point=3C9089&area=true&hide_border=true" alt="GitHub Contribution Graph" style="width: 98%; max-width: 1000px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=slkarhmn&bg_color=00000000&color=ECB000&line=ECB000&point=ECB000&area=true&hide_border=true" alt="GitHub Contribution Graph" style="width: 98%; max-width: 1000px;" />
 </div>
 
 ## Tech Stack  
-[![Top Langs](https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api/top-langs?username=slkarhmn&langs_count=10&hide=css,html&theme=gotham&hide_border=true&bg_color=00000000)](https://github.com/slkarhmn)
+[![Top Langs](https://github-readme-stats-git-master-salikas-projects-2abcb053.vercel.app/api/top-langs?username=slkarhmn&langs_count=10&hide=css,html&title_color=ECB000&text_color=FFFFFF&icon_colour=ECB000&hide_border=true&bg_color=00000000)](https://github.com/slkarhmn)
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
